@@ -1,6 +1,5 @@
-/* =========================
-   RESET & GLOBAL STYLES
-========================= */
+/* RESET & GLOBAL STYLES.... */
+
 * {
   margin: 0;
   padding: 0;
@@ -20,7 +19,7 @@ body {
 }
 
 /* =========================
-   TOP NAVBAR
+   .......TOP NAVBAR.......
 ========================= */
 .navbar {
   position: fixed;
@@ -49,7 +48,7 @@ body {
 }
 
 /* =========================
-   HEADER
+   .......HEADER.......
 ========================= */
 .header {
   background: linear-gradient(135deg, #2563eb, #1e40af);
@@ -86,7 +85,7 @@ body {
 }
 
 /* =========================
-   SECTIONS
+   .......SECTIONS.......
 ========================= */
 .section {
   padding: 75px 20px; /* fixed typo */
@@ -110,7 +109,7 @@ body {
 }
 
 /* =========================
-   SKILLS
+   .......SKILLS.......
 ========================= */
 .skills-list {
   display: flex;
@@ -164,7 +163,7 @@ body {
 }
 
 /* =========================
-   CONTACT SECTION
+   CONTACT SECTION...
 ========================= */
 .contact-section {
   background-color: #f8fafc;
@@ -218,7 +217,7 @@ body {
 }
 
 /* =========================
-   CONTACT FORM
+   ....CONTACT FORM....
 ========================= */
 .contact-form {
   background-color: #ffffff;
@@ -262,7 +261,7 @@ body {
 }
 
 /* =========================
-   FOOTER
+   .......FOOTER.......
 ========================= */
 .footer {
   background-color: #1e293b;
